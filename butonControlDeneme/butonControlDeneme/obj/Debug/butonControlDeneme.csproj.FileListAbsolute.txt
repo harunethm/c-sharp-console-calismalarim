@@ -1,0 +1,10 @@
+E:\Visual Studio Kodları\butonControlDeneme\butonControlDeneme\bin\Debug\butonControlDeneme.exe.config
+E:\Visual Studio Kodları\butonControlDeneme\butonControlDeneme\bin\Debug\butonControlDeneme.exe
+E:\Visual Studio Kodları\butonControlDeneme\butonControlDeneme\bin\Debug\butonControlDeneme.pdb
+E:\Visual Studio Kodları\butonControlDeneme\butonControlDeneme\obj\Debug\butonControlDeneme.csprojAssemblyReference.cache
+E:\Visual Studio Kodları\butonControlDeneme\butonControlDeneme\obj\Debug\butonControlDeneme.Form1.resources
+E:\Visual Studio Kodları\butonControlDeneme\butonControlDeneme\obj\Debug\butonControlDeneme.Properties.Resources.resources
+E:\Visual Studio Kodları\butonControlDeneme\butonControlDeneme\obj\Debug\butonControlDeneme.csproj.GenerateResource.cache
+E:\Visual Studio Kodları\butonControlDeneme\butonControlDeneme\obj\Debug\butonControlDeneme.csproj.CoreCompileInputs.cache
+E:\Visual Studio Kodları\butonControlDeneme\butonControlDeneme\obj\Debug\butonControlDeneme.exe
+E:\Visual Studio Kodları\butonControlDeneme\butonControlDeneme\obj\Debug\butonControlDeneme.pdb

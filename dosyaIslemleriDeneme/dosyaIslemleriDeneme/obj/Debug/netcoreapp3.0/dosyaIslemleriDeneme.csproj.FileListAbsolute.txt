@@ -1,0 +1,22 @@
+C:\Users\canha\source\repos\dosyaIslemleriDeneme\dosyaIslemleriDeneme\bin\Debug\netcoreapp3.0\dosyaIslemleriDeneme.exe
+C:\Users\canha\source\repos\dosyaIslemleriDeneme\dosyaIslemleriDeneme\bin\Debug\netcoreapp3.0\dosyaIslemleriDeneme.deps.json
+C:\Users\canha\source\repos\dosyaIslemleriDeneme\dosyaIslemleriDeneme\bin\Debug\netcoreapp3.0\dosyaIslemleriDeneme.runtimeconfig.json
+C:\Users\canha\source\repos\dosyaIslemleriDeneme\dosyaIslemleriDeneme\bin\Debug\netcoreapp3.0\dosyaIslemleriDeneme.runtimeconfig.dev.json
+C:\Users\canha\source\repos\dosyaIslemleriDeneme\dosyaIslemleriDeneme\bin\Debug\netcoreapp3.0\dosyaIslemleriDeneme.dll
+C:\Users\canha\source\repos\dosyaIslemleriDeneme\dosyaIslemleriDeneme\bin\Debug\netcoreapp3.0\dosyaIslemleriDeneme.pdb
+C:\Users\canha\source\repos\dosyaIslemleriDeneme\dosyaIslemleriDeneme\obj\Debug\netcoreapp3.0\dosyaIslemleriDeneme.csprojAssemblyReference.cache
+C:\Users\canha\source\repos\dosyaIslemleriDeneme\dosyaIslemleriDeneme\obj\Debug\netcoreapp3.0\dosyaIslemleriDeneme.AssemblyInfoInputs.cache
+C:\Users\canha\source\repos\dosyaIslemleriDeneme\dosyaIslemleriDeneme\obj\Debug\netcoreapp3.0\dosyaIslemleriDeneme.AssemblyInfo.cs
+C:\Users\canha\source\repos\dosyaIslemleriDeneme\dosyaIslemleriDeneme\obj\Debug\netcoreapp3.0\dosyaIslemleriDeneme.dll
+C:\Users\canha\source\repos\dosyaIslemleriDeneme\dosyaIslemleriDeneme\obj\Debug\netcoreapp3.0\dosyaIslemleriDeneme.pdb
+D:\Visual Studio Kodları\dosyaIslemleriDeneme\dosyaIslemleriDeneme\bin\Debug\netcoreapp3.0\dosyaIslemleriDeneme.exe
+D:\Visual Studio Kodları\dosyaIslemleriDeneme\dosyaIslemleriDeneme\bin\Debug\netcoreapp3.0\dosyaIslemleriDeneme.deps.json
+D:\Visual Studio Kodları\dosyaIslemleriDeneme\dosyaIslemleriDeneme\bin\Debug\netcoreapp3.0\dosyaIslemleriDeneme.runtimeconfig.json
+D:\Visual Studio Kodları\dosyaIslemleriDeneme\dosyaIslemleriDeneme\bin\Debug\netcoreapp3.0\dosyaIslemleriDeneme.runtimeconfig.dev.json
+D:\Visual Studio Kodları\dosyaIslemleriDeneme\dosyaIslemleriDeneme\bin\Debug\netcoreapp3.0\dosyaIslemleriDeneme.dll
+D:\Visual Studio Kodları\dosyaIslemleriDeneme\dosyaIslemleriDeneme\bin\Debug\netcoreapp3.0\dosyaIslemleriDeneme.pdb
+D:\Visual Studio Kodları\dosyaIslemleriDeneme\dosyaIslemleriDeneme\obj\Debug\netcoreapp3.0\dosyaIslemleriDeneme.csprojAssemblyReference.cache
+D:\Visual Studio Kodları\dosyaIslemleriDeneme\dosyaIslemleriDeneme\obj\Debug\netcoreapp3.0\dosyaIslemleriDeneme.AssemblyInfoInputs.cache
+D:\Visual Studio Kodları\dosyaIslemleriDeneme\dosyaIslemleriDeneme\obj\Debug\netcoreapp3.0\dosyaIslemleriDeneme.AssemblyInfo.cs
+D:\Visual Studio Kodları\dosyaIslemleriDeneme\dosyaIslemleriDeneme\obj\Debug\netcoreapp3.0\dosyaIslemleriDeneme.dll
+D:\Visual Studio Kodları\dosyaIslemleriDeneme\dosyaIslemleriDeneme\obj\Debug\netcoreapp3.0\dosyaIslemleriDeneme.pdb

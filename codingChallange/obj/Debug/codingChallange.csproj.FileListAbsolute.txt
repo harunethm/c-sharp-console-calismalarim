@@ -1,0 +1,13 @@
+C:\Users\canha\source\repos\codingChallange\bin\Debug\codingChallange.exe.config
+C:\Users\canha\source\repos\codingChallange\bin\Debug\codingChallange.exe
+C:\Users\canha\source\repos\codingChallange\bin\Debug\codingChallange.pdb
+C:\Users\canha\source\repos\codingChallange\obj\Debug\codingChallange.csprojAssemblyReference.cache
+C:\Users\canha\source\repos\codingChallange\obj\Debug\codingChallange.exe
+C:\Users\canha\source\repos\codingChallange\obj\Debug\codingChallange.pdb
+E:\Visual Studio Kodları\codingChallange\bin\Debug\codingChallange.exe.config
+E:\Visual Studio Kodları\codingChallange\bin\Debug\codingChallange.exe
+E:\Visual Studio Kodları\codingChallange\bin\Debug\codingChallange.pdb
+E:\Visual Studio Kodları\codingChallange\obj\Debug\codingChallange.csprojAssemblyReference.cache
+E:\Visual Studio Kodları\codingChallange\obj\Debug\codingChallange.csproj.CoreCompileInputs.cache
+E:\Visual Studio Kodları\codingChallange\obj\Debug\codingChallange.exe
+E:\Visual Studio Kodları\codingChallange\obj\Debug\codingChallange.pdb

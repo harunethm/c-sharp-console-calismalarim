@@ -1,0 +1,13 @@
+C:\Users\canha\source\repos\dosyaDeneme\bin\Debug\dosyaDeneme.exe.config
+C:\Users\canha\source\repos\dosyaDeneme\bin\Debug\dosyaDeneme.exe
+C:\Users\canha\source\repos\dosyaDeneme\bin\Debug\dosyaDeneme.pdb
+C:\Users\canha\source\repos\dosyaDeneme\obj\Debug\dosyaDeneme.csprojAssemblyReference.cache
+C:\Users\canha\source\repos\dosyaDeneme\obj\Debug\dosyaDeneme.exe
+C:\Users\canha\source\repos\dosyaDeneme\obj\Debug\dosyaDeneme.pdb
+E:\Visual Studio Kodları\dosyaDeneme\bin\Debug\dosyaDeneme.exe.config
+E:\Visual Studio Kodları\dosyaDeneme\bin\Debug\dosyaDeneme.exe
+E:\Visual Studio Kodları\dosyaDeneme\bin\Debug\dosyaDeneme.pdb
+E:\Visual Studio Kodları\dosyaDeneme\obj\Debug\dosyaDeneme.csprojAssemblyReference.cache
+E:\Visual Studio Kodları\dosyaDeneme\obj\Debug\dosyaDeneme.csproj.CoreCompileInputs.cache
+E:\Visual Studio Kodları\dosyaDeneme\obj\Debug\dosyaDeneme.exe
+E:\Visual Studio Kodları\dosyaDeneme\obj\Debug\dosyaDeneme.pdb
