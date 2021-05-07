@@ -1,0 +1,7 @@
+C:\Users\canha\Desktop\GitHub\C#\dovizTakip\obj\Debug\dovizTakip.csprojAssemblyReference.cache
+C:\Users\canha\Desktop\GitHub\C#\dovizTakip\obj\Debug\dovizTakip.csproj.CoreCompileInputs.cache
+C:\Users\canha\Desktop\GitHub\C#\dovizTakip\bin\Debug\dovizTakip.exe.config
+C:\Users\canha\Desktop\GitHub\C#\dovizTakip\bin\Debug\dovizTakip.exe
+C:\Users\canha\Desktop\GitHub\C#\dovizTakip\bin\Debug\dovizTakip.pdb
+C:\Users\canha\Desktop\GitHub\C#\dovizTakip\obj\Debug\dovizTakip.exe
+C:\Users\canha\Desktop\GitHub\C#\dovizTakip\obj\Debug\dovizTakip.pdb

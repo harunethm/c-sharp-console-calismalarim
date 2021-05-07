@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matlabProjesi", "matlabProjesi.csproj", "{B9A7F64C-FCAB-4DB4-8AA6-57241B4D63ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9A7F64C-FCAB-4DB4-8AA6-57241B4D63ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A7F64C-FCAB-4DB4-8AA6-57241B4D63ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A7F64C-FCAB-4DB4-8AA6-57241B4D63ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A7F64C-FCAB-4DB4-8AA6-57241B4D63ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15C2BA5E-6E7A-402F-84D1-86F3D9CB4A41}
+	EndGlobalSection
+EndGlobal

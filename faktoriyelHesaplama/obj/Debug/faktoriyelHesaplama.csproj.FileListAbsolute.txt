@@ -1,0 +1,7 @@
+C:\Users\canha\Desktop\GitHub\C#\faktoriyelHesaplama\bin\Debug\faktoriyelHesaplama.exe.config
+C:\Users\canha\Desktop\GitHub\C#\faktoriyelHesaplama\bin\Debug\faktoriyelHesaplama.exe
+C:\Users\canha\Desktop\GitHub\C#\faktoriyelHesaplama\bin\Debug\faktoriyelHesaplama.pdb
+C:\Users\canha\Desktop\GitHub\C#\faktoriyelHesaplama\obj\Debug\faktoriyelHesaplama.csprojAssemblyReference.cache
+C:\Users\canha\Desktop\GitHub\C#\faktoriyelHesaplama\obj\Debug\faktoriyelHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\canha\Desktop\GitHub\C#\faktoriyelHesaplama\obj\Debug\faktoriyelHesaplama.exe
+C:\Users\canha\Desktop\GitHub\C#\faktoriyelHesaplama\obj\Debug\faktoriyelHesaplama.pdb

@@ -1,0 +1,7 @@
+C:\Users\canha\source\repos\karakterTekrarSayisiniBulanProgram\bin\Debug\karakterTekrarSayisiniBulanProgram.exe.config
+C:\Users\canha\source\repos\karakterTekrarSayisiniBulanProgram\bin\Debug\karakterTekrarSayisiniBulanProgram.exe
+C:\Users\canha\source\repos\karakterTekrarSayisiniBulanProgram\bin\Debug\karakterTekrarSayisiniBulanProgram.pdb
+C:\Users\canha\source\repos\karakterTekrarSayisiniBulanProgram\obj\Debug\karakterTekrarSayisiniBulanProgram.csprojAssemblyReference.cache
+C:\Users\canha\source\repos\karakterTekrarSayisiniBulanProgram\obj\Debug\karakterTekrarSayisiniBulanProgram.csproj.CoreCompileInputs.cache
+C:\Users\canha\source\repos\karakterTekrarSayisiniBulanProgram\obj\Debug\karakterTekrarSayisiniBulanProgram.exe
+C:\Users\canha\source\repos\karakterTekrarSayisiniBulanProgram\obj\Debug\karakterTekrarSayisiniBulanProgram.pdb

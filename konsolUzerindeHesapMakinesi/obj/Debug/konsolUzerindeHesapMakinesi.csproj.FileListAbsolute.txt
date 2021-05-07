@@ -1,0 +1,7 @@
+C:\Users\canha\source\repos\konsolUzerindeHesapMakinesi\bin\Debug\konsolUzerindeHesapMakinesi.exe.config
+C:\Users\canha\source\repos\konsolUzerindeHesapMakinesi\bin\Debug\konsolUzerindeHesapMakinesi.exe
+C:\Users\canha\source\repos\konsolUzerindeHesapMakinesi\bin\Debug\konsolUzerindeHesapMakinesi.pdb
+C:\Users\canha\source\repos\konsolUzerindeHesapMakinesi\obj\Debug\konsolUzerindeHesapMakinesi.csprojAssemblyReference.cache
+C:\Users\canha\source\repos\konsolUzerindeHesapMakinesi\obj\Debug\konsolUzerindeHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\canha\source\repos\konsolUzerindeHesapMakinesi\obj\Debug\konsolUzerindeHesapMakinesi.exe
+C:\Users\canha\source\repos\konsolUzerindeHesapMakinesi\obj\Debug\konsolUzerindeHesapMakinesi.pdb
